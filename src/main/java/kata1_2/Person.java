@@ -1,7 +1,6 @@
 package kata1_2;
 
 import java.util.Calendar;
-import java.util.Date;
 import java.util.GregorianCalendar;
 
 public class Person {
